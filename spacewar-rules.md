@@ -425,3 +425,4 @@
 422. Se pular solte um objeto aleatorio e ganhe um ponto de força e velocidade, se cair pedra azul do eveferest.
 423. Se pular corda, ganha supervelocidade.
 424. Se invocar Dr. Beco, ganha o jogo.
+425. Se for pra Carpina vá comer no Embrasa e peça um refrigerante. 
