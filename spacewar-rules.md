@@ -427,3 +427,4 @@
 424. Se invocar Dr. Beco, ganha o jogo.
 425. Se for pra Carpina va comer no Embrasa e peça um refrigerante.
 426. Se sofrer efeitos colaterais indesejados ao usar death sticks, comunique aos distribuidores geonosianos instalados em Serra Talhada, Araripina, e Xique-Xique.
+427. Se for goleiro da poli jr não tome gol.
